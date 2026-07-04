@@ -92,3 +92,21 @@ SSH was used as a workaround for VM copy/paste limitations, and Splunk performan
 - Continue testing Windows endpoint log forwarding.
 - Explore Wazuh as a lighter SIEM option for the M1 lab environment.
 - Add additional dashboards and alerts.
+
+## Lab Screenshots
+
+### Ubuntu Server
+
+![Ubuntu Server](screenshots/ubuntu-server.png)
+
+---
+
+### Splunk Dashboard
+
+![Splunk Dashboard](screenshots/splunk-dashboard.png)
+
+---
+
+### SSH Administration
+
+![SSH Connection](screenshots/ssh-connection.png)
