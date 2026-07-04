@@ -23,3 +23,25 @@ This project documents the creation of a Security Operations Center (SOC) home l
 
 **Remote Administration**
 - SSH
+
+---
+
+## Tools Used
+
+- Splunk Enterprise
+- Ubuntu Server
+- Windows 11 ARM
+- UTM Virtualization
+- SSH
+- macOS Terminal
+
+---
+
+## Objectives
+
+- Build a functional Security Operations Center (SOC) home lab.
+- Deploy and configure Splunk Enterprise on Ubuntu Server.
+- Practice Linux system administration using SSH.
+- Analyze system and security logs within Splunk.
+- Create dashboards and alerts for monitoring events.
+- Gain hands-on experience with virtualization and SIEM technologies.
